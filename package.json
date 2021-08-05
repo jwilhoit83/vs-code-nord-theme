@@ -2,7 +2,7 @@
     "name": "nord-theme",
     "displayName": "Nord Theme",
     "description": "Theme based on the Nord colorway",
-    "version": "1.0",
+    "version": "0.1.0",
     "publisher": "ZamBam83",
     "engines": {
         "vscode": "^1.58.0"
