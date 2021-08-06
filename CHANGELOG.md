@@ -7,3 +7,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+first ever theme and extension for vs-code
+
+- 1.1.0
+minor color tweaks
+
+- 1.1.1
+more minor tweaks and hue changes
