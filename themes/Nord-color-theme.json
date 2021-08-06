@@ -25,7 +25,7 @@
     "editor.background": "#2e3440",
     "editor.findMatchBackground": "#3b4252",
     "editor.findMatchBorder": "#8fbcbb",
-    "editor.findMatchHighlightBackground": "#8fbcbb93",
+    "editor.findMatchHighlightBackground": "#9f8fbc93",
     "editor.findMatchHighlightBorder": "#C7C0B330",
     "editor.foreground": "#d8dee9",
     "editor.lineHighlightBackground": "#3b425250",
@@ -136,7 +136,7 @@
     "scrollbarSlider.activeBackground": "#b48eadcc",
     "scrollbarSlider.background": "#b48eadbb",
     "scrollbarSlider.hoverBackground": "#b48eadee",
-    "selection.background": "#8fbcbb",
+    "selection.background": "#8fbcbb70",
     "settings.checkboxBackground": "#3b4252",
     "settings.checkboxForeground": "#d8dee9",
     "settings.dropdownBackground": "#3b4252",
@@ -196,7 +196,7 @@
     "textLink.activeForeground": "#d8dee9",
     "textLink.foreground": "#8fbcbb",
     "titleBar.activeBackground": "#3b4252",
-    "titleBar.activeForeground": "#d8dee9",
+    "titleBar.activeForeground": "#81a1c1",
     "titleBar.border": "#3b425260",
     "titleBar.inactiveBackground": "#3b4252",
     "titleBar.inactiveForeground": "#8fbcbb",
@@ -215,6 +215,14 @@
       ],
       "settings": {
         "foreground": "#81a1c1"
+      }
+    },
+    {
+      "scope": [
+        "variable"
+      ],
+      "settings": {
+        "foreground": "#88c0d0"
       }
     },
     {
@@ -294,7 +302,14 @@
         "keyword.control.at-rule",
         "punctuation.terminator.rule.css",
         "keyword.control.operator",
-        "punctuation.definition.entity.css",
+        "punctuation.definition.entity.css"
+      ],
+      "settings": {
+        "foreground": "#b48ead"
+      }
+    },
+    {
+      "scope": [
         "keyword.operator.assignment.js",
         "punctuation.separator.comma.js",
         "punctuation.definition.string.begin.js",
@@ -302,7 +317,7 @@
         "punctuation.definition.binding-pattern.object.js"
       ],
       "settings": {
-        "foreground": "#b48ead"
+        "foreground": "#ebcb8b"
       }
     },
     {
@@ -331,7 +346,7 @@
         "comment.block.css"
       ],
       "settings": {
-        "foreground": "#bf616a",
+        "foreground": "#d08770",
       }
     },
 		{
@@ -376,7 +391,7 @@
         "variable.other.object.js",
       ],
       "settings": {
-        "foreground": "#ebcb8b",
+        "foreground": "#88c0d0",
         "fontStyle": ""
       }
     },
@@ -427,7 +442,7 @@
         "string.quoted.single.html",
       ],
       "settings": {
-        "foreground": "#81a1c1"
+        "foreground": "#88c0d0"
       }
     },
     {

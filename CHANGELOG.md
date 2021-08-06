@@ -15,3 +15,9 @@ minor color tweaks
 
 - 1.1.1
 more minor tweaks and hue changes
+
+- 1.2.1
+tweaked all colors for theme and ironed out some inconsistancies
+
+- 1.2.2
+more subtle tweaks
