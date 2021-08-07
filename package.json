@@ -2,8 +2,9 @@
     "name": "nord-theme",
     "displayName": "Nord Theme by Zam",
     "description": "Theme based on the Nord colorway",
-    "version": "1.2.3",
+    "version": "1.2.4",
     "publisher": "ZamBam83",
+    "icon": "themes/zam-nord.png",
     "engines": {
         "vscode": "^1.58.0"
     },

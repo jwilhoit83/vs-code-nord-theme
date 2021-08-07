@@ -1,14 +1,14 @@
-html {
-  color: #2e3440; /* current darkest bg */
-  color: #3b4252; /* current darker bg */
-  color: #4c566a; /* current dark bg */
-  color: #d8dee9; /* current light foreground */
-  color: #8fbcbb; /* current green */
-  color: #b48ead; /* current pink */
-  color: #88c0d0; /* current bright blue */
-  color: #81a1c1; /* current blue */
-  color: #5E81AC; /* current dark blue */
-  color: #ebcb8b; /* current yellow */
-  color: #BE7179; /* current red */
-  color: #d08770; /* orange */
+.nord {
+  color: #2e3440; /* darkest bg */
+  color: #3b4252; /* darker bg */
+  color: #4d576a; /* dark bg */
+  color: #d8dee9; /* light foreground */
+  color: #8fbcbb; /* green */
+  color: #b48ead; /* pink */
+  color: #88c0d0; /* bright blue */
+  color: #81a1c1; /* blue */
+  color: #5d81ac; /* dark blue */
+  color: #ebca89; /* yellow */
+  color: #BE7179; /* red */
+  color: #d18771; /* orange */
 }
