@@ -1,6 +1,6 @@
 ![Logo](themes/zam-nord.png)
 
-# Nord Theme by ZamBam
+# Nord Theme by Zam
 
 ## Theme Specifics
 ---
@@ -10,7 +10,18 @@
 - I have started adding support for python and php.  Other languages will be coming but it will take some time.
 - I am still tweaking some of the colors so there will be plenty of changes to come.
 - Let me know on GitHub if you have any recommendations or issues and I will do my best to get them implemented/resolved.
+
+## Bracket Pair Colorizer 2
 ---
+- If you are using **Bracket Pair Colorizer 2** for bracket highlighting I would recommend adding the following colors to the settings.json file to compliment the color theme better.  
+```json
+"bracket-pair-colorizer-2.colors": [
+  "#5E81AC",
+  "#BE7179",
+  "#a3be8c",
+  "#d08770"
+],
+```
 ## Screen Shots
 ---
 ### HTML
